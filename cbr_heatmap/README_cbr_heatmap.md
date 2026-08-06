@@ -101,4 +101,4 @@ Comparison:
 
 | Figure | Sample | Flags | Notes |
 |--------|--------|-------|-------|
-| Fig. 1D, 1E | 48hr | `--cpm-normalize --mask-chromosomes --vmaxes Vmax300:300` | 10kb + 20kb |
+| Fig. 1D, 1F | 48hr | `--cpm-normalize --mask-chromosomes --vmaxes Vmax300:300` | 10kb + 20kb |
